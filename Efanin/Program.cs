@@ -1,3 +1,3 @@
 ﻿using Efanin;
 
-Programm2.main();
+Programm3.main();
