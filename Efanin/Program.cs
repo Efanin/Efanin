@@ -1,1 +1,3 @@
-﻿Console.WriteLine("ddddddddddddddddddd");
+﻿using Efanin;
+
+Programm1.main();
